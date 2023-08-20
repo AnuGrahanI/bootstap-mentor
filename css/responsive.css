@@ -1,0 +1,35 @@
+
+	
+ /* Extra Small Devices (Phones) */
+@media (max-width: 576px) {
+    /* Your CSS rules for extra small devices here */
+	.p-flex-item-12{
+		width:100% !important;
+		flex:0 0 auto;
+		padding-right:15px;
+		padding-left:15px;
+
+	}
+}
+
+/* Small Devices (Tablets) */
+@media (min-width: 577px) and (max-width: 768px) {
+    /* Your CSS rules for small devices here */
+
+		
+}
+/* Medium Devices (Laptops) */
+@media (min-width: 769px) and (max-width: 992px) {
+    /* Your CSS rules for medium devices here */
+}
+
+/* Large Devices (Desktops) */
+@media (min-width: 993px) and (max-width: 1200px) {
+    /* Your CSS rules for large devices here */
+}
+
+/* Extra Large Devices (Large Desktops) */
+@media (min-width: 1201px) {
+    /* Your CSS rules for extra large devices here */
+}
+
